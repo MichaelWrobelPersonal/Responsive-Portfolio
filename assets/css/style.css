@@ -1,0 +1,25 @@
+li { display: inline; }
+:link { color : #4aaaa5; }
+:visited { color : #777777; }
+h2 { text-indent: 25px; }
+body { color: #777777; font-family: Arial, 'Helvetica Neue', Helvetica,  sans-serif; width:960px; }
+header { background-color : #ffffff; font-family: Georgia, Times, 'Times New Roman',  serif; width:100%; height: 80px; }
+hgroup { height: 100% }
+#header-title { background-color: #4aaaa5; color: #ffffff; padding-left : 12px; padding-right : 12px; margin-left : 48px;
+                  position: inline; float: left; height: 100% }
+.header-content { position: inline; float: right; height: 100% }
+main { background-color: #cccccc; border-color: #dddddd; height: 100%; }
+#Biography { clear: both; background-color: #ffffff; border-color: #dddddd; float : left; width:650px; margin: 5px; padding: 5px; }
+#Portfolio { clear: both; background-color: #ffffff; border-color: #dddddd; float : left; width:650px; margin: 5px; padding: 5px; }
+#Contact { clear: both; background-color: #ffffff; border-color: #dddddd; float : left; width:650px; margin: 5px; padding: 5px; }
+.main-title { text-align: left; color: #4aaaa5; clear: both; }
+#main-picture { width: 150px; height: 100px; margin: 10px; float: left;}
+.main-content { text-align: left; }
+#MyWordpressSite { margin-left: 50px; }
+.Connect { position: inline; background-color : #ffffff; border-color: #dddddd; float: right; width:270px; margin: 5px; padding: 5px; }
+.contact-icon { height:64px; width:64px; }
+#contact-message { max-width: 100%; min-height: 35%; vertical-align: text-top; }
+#submit-button { background-color: #4aaaa5; color: #ffffff; font-size: 26px; min-height: 50px; min-width: 120px; text-align: center; margin: 5px; }
+#PPA_Batch-picture {height: 75%; width: 75%; }
+footer { clear: both; background-color : #666666; color : #cccccc;  width:100%; vertical-align: middle; text-align: center; min-height: 80px; padding: auto; }
+.footer-content { vertical-align: middle; text-align: center; margin-top:auto; margin-bottom: auto }
