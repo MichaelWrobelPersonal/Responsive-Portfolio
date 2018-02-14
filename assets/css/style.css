@@ -1,4 +1,3 @@
-/
 /* General */
 * {
     box-sizing: border-box;
@@ -77,9 +76,28 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 #Contact { clear: both; background-color: #ffffff; border-color: #dddddd; float : left; width:60%; max-width:650px; margin: 6px; padding: 3px; }
 
 /* Portfolio */
-h2 { text-indent: 25px; }
-#MyWordpressSite { margin-left: 50px; }
 #PPA_Batch-picture {height: 75%; width: 75%; }
+.personal {
+    position: relative;
+    width: 500px;
+    margin: 20px 0 25px;
+    overflow: auto;
+}
+.work {
+    position: relative;
+    width: 500px;
+    margin: 20px 0 25px;
+    overflow: auto;
+}
+.work:nth-child(even) {
+    margin-right: 40px;
+}
+.work .personal img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+}
+
 
 /* Contact */
 #contact-name { display: block; width: 100%; }
