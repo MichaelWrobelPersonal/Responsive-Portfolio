@@ -77,15 +77,29 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 
 /* Portfolio */
 #PPA_Batch-picture {height: 75%; width: 75%; }
+
 .personal {
     position: relative;
     width: 500px;
+    max-width: 500px;
+    max-height: 500px;
+    min-width: 75px;
+    min-height: 75px;
     margin: 20px 0 25px;
     overflow: auto;
 }
-.work {
+.web-dev {
+    display: flex-inline;
+    flex-wrap: auto;
+    align-items: flex-start;
+}
+.web-dev-item {
     position: relative;
     width: 500px;
+    max-width: 500px;
+    max-height: 500px;
+    min-width: 75px;
+    min-height: 75px;
     margin: 20px 0 25px;
     overflow: auto;
 }
@@ -97,7 +111,9 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
     border: 0 none;
     opacity: 0.8;
 }
-
+.industrial {
+    clear: both;
+}
 
 /* Contact */
 #contact-name { display: block; width: 100%; }
