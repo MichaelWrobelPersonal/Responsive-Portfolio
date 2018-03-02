@@ -87,6 +87,7 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 #PPA_Batch-picture {height: 75%; width: 75%; }
 #OlympicMan-picture {height: 66%; width: 33%; vertical-align: top; }
 #Crystals-picture { height: 66%; width: 33%; vertical-align: top; }
+#Trivia-picture { height: 66%; width: 33%; vertical-align: top; }
 
 .personal {
     position: relative;
