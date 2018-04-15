@@ -92,6 +92,7 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 #Spy-vs-Spy-RPS-picture { height: 66%; width: 33%; vertical-align: top; }
 #Chefs-picture { height: 66%; width: 33%; vertical-align: top; }
 #Liri-picture { height: 66%; width: 33%; vertical-align: top; }
+#Retro-Olympicman-picture { height: 66%; width: 33%; vertical-align: top; }
 
 .personal {
     position: relative;
@@ -183,7 +184,6 @@ footer {
     padding: 30px 0;
     clear: both;
     font-size: 12px;
-    color: #ffffff;
     color: #cccccc;
     text-align: center;
     background: #666666;
