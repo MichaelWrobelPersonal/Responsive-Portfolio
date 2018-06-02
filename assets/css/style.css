@@ -96,6 +96,7 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 #Big-Amazon-picture { height: 66%; width: 33%; vertical-align: top; }
 #Friend-Finder-picture { height: 66%; width: 33%; vertical-align: top; }
 #Burgers-picture  { height: 66%; width: 33%; vertical-align: top; }
+#Hamburgers-picture  { height: 66%; width: 33%; vertical-align: top; }
 
 .personal {
     position: relative;
