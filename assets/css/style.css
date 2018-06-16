@@ -98,6 +98,7 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 #Burgers-picture  { height: 66%; width: 33%; vertical-align: top; }
 #Hamburgers-picture  { height: 66%; width: 33%; vertical-align: top; }
 #Newsweb-picture { height: 66%; width: 33%; vertical-align: top; }
+#Memory-picture { height: 66%; width: 33%; vertical-align: top; }
 
 .personal {
     position: relative;
