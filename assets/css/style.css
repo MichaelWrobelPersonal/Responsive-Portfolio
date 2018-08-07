@@ -69,7 +69,7 @@ li { display: inline; }
 /* Main */
 main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 .main-title { text-align: left; color: #4aaaa5; clear: both; padding-left: 6px; }
-#main-picture { width: 150px; height: 100px; margin: 10px; float: left; }
+#main-picture { width: 120px; height: 100px; margin: 10px; float: left; }
 .main-content { text-align: left;
                 padding-left : 6px;
                 padding-right : 6px;
