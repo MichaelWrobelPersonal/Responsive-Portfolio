@@ -82,9 +82,12 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 
 /* Portfolio */
 #MyWordPressSite-picture {height: 66%; width: 33%; vertical-align: top; }
-#SubArcCellWelder-picture {height: 50%; width: 50%;}
-#PGC5000-picture {height: 50%; width: 50%; }
+#SubArcCellWelder-picture {height: 100%; width: 100%;}
+#PGC5000-picture {height: 100%; width: 100%; }
 #PPA_Batch-picture {height: 75%; width: 75%; }
+#ProcessSentryPLCDispensers-picture {height: 40%; width: 40%; }
+#ProcessSentryPLCController-picture {height: 45%; width: 55%; }
+#ProcessSentryPLCRhino-picture {height: 35%; width: 55%; }
 #OlympicMan-picture {height: 66%; width: 33%; vertical-align: top; }
 #Crystals-picture { height: 66%; width: 33%; vertical-align: top; }
 #Trivia-picture { height: 66%; width: 33%; vertical-align: top; }
