@@ -85,9 +85,19 @@ main { background-color: #cccccc; border-color: #dddddd; height: auto; }
 #SubArcCellWelder-picture {height: 100%; width: 100%;}
 #PGC5000-picture {height: 100%; width: 100%; }
 #PPA_Batch-picture {height: 75%; width: 75%; }
-#ProcessSentryPLCDispensers-picture {height: 40%; width: 40%; }
-#ProcessSentryPLCController-picture {height: 45%; width: 55%; }
-#ProcessSentryPLCRhino-picture {height: 35%; width: 55%; }
+
+#ProcessSentryPLCDispensers-picture {height: 50%; width: 50%; }
+#ProcessSentryPLCController-picture {height: 50%; width: 50%; }
+#ProcessSentryPLCRhino-picture {height: 75%; width: 75%; }
+
+#iTraxContainer-picture {height: 25%; width: 100%; }
+#FuzyonInkDot-picture {height: 50%; width: 75%; }
+#EnhanceEngagePowder-picture {height: 75%; width: 75%; }
+
+#ABBBridgeControlller-picture {height: 75%; width: 50%; }
+#ABBStationAnalogControl-picture {height: 45%; width: 55%; }
+#ABBRemoteIOGateway-picture {height: 50%; width: 50%; }
+#HRBB1BomberSimulator-picture {height: 80%; width: 100%; }
 #OlympicMan-picture {height: 66%; width: 33%; vertical-align: top; }
 #Crystals-picture { height: 66%; width: 33%; vertical-align: top; }
 #Trivia-picture { height: 66%; width: 33%; vertical-align: top; }
